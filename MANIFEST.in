@@ -7,5 +7,6 @@ include README.txt
 include version.txt
 graft doc
 graft tests
+graft examples
 global-exclude __pycache__
 global-exclude *.py[co]
